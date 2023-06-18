@@ -60,15 +60,15 @@ button{
 @media screen and (max-width:900px){
     .bdy video{
 
-        width: 55%;
-        top: 40px;
+        width: 80%;
+        top: 60px;
         position: relative;
-        right: 30%;
+        right: 17%;
         scale: 1.5;
     }
     .end{
         position: relative;
-        top: 50px;
+        top: 90px;
         text-align: center;
     }
 }
